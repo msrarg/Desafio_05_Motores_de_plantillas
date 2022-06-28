@@ -1,0 +1,16 @@
+{
+  "name": "mauricio_simon_rodriguez_desafio_05_motores_de_plantillas",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "Mauricio Simón Rodriguez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^5.2.0"
+  },
+  "description": ""
+}
